@@ -1,0 +1,11 @@
+.DS_Store
+*.class
+*.log
+.env
+.env.*
+*.pem
+*.key
+wallet/
+.idea/
+.vscode/
+Java_App/lib/*.jar
